@@ -1,5 +1,5 @@
-node_modules/*
-test/node_modules/*
+node_modules
+test/node_modules
 .idea
 npm-debug.log
 yarn.lock
