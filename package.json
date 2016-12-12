@@ -11,13 +11,11 @@
     "url": "git+https://github.com/oliwerin/gulp-aemsync.git"
   },
   "keywords": [
-    "gulp",
-    "gulp plugin",
+    "gulpplugin",
     "aemsync",
     "aem-sync",
     "cq",
-    "aem",
-    "adobe experience manager"
+    "aem"
   ],
   "author": "Oliwer Iwanicki",
   "license": "MIT",
