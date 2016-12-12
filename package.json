@@ -2,7 +2,7 @@
   "name": "gulp-aemsync",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "gulp-aemsync.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,12 +12,12 @@
   },
   "keywords": [
     "gulp",
+    "gulp plugin",
+    "aemsync",
+    "aem-sync",
     "cq",
     "aem",
-    "adobe",
-    "experience",
-    "manager",
-    "sync"
+    "adobe experience manager"
   ],
   "author": "Oliwer Iwanicki",
   "license": "MIT",
