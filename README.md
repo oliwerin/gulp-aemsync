@@ -1,6 +1,6 @@
 # Gulp AEM Sync
 ### Description
-A simple [aemsync](https://github.com/gavoja/aemsync) plugin wrapper for Gulp. It will automatically upload piped files to CRX. 
+A simple [aemsync](https://github.com/gavoja/aemsync) wrapper for Gulp. It will automatically upload piped files to CRX. 
 
 ### Installation
 ```
