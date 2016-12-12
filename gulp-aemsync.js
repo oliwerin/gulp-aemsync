@@ -10,10 +10,8 @@ function gulpAemSync(options) {
 
     if (!pusher) {
         const targets = options.targets || ['http://admin:admin@localhost:4502'];
-        const interval = options.interval || 300;
-        const exclude = options.exclude || '';
 
-        pusher = new Pusher(targets, interval, exclude);
+        pusher = new Pusher(targets);
     }
 
     return through2.obj(addFileToPackage, uploadPackageToCRX);
